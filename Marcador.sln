@@ -1,0 +1,107 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Marcador", "Marcador\Marcador.vbproj", "{F7CADE36-B4BE-4D92-9B67-056790758061}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72A0EECD-F6E7-40E3-BBD2-FF41FA8D0E4B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\DS-DIGI.TTF = ..\..\..\DS-DIGI.TTF
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Default = CD_ROM|Default
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Default = Debug|Default
+		Debug|x86 = Debug|x86
+		DVD-5|Default = DVD-5|Default
+		DVD-5|x86 = DVD-5|x86
+		Release|Default = Release|Default
+		Release|x86 = Release|x86
+		SingleImage|Default = SingleImage|Default
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.CD_ROM|Default.ActiveCfg = Debug|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.CD_ROM|x86.ActiveCfg = Release|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.CD_ROM|x86.Build.0 = Release|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.Debug|Default.ActiveCfg = Debug|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.Debug|x86.ActiveCfg = Debug|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.Debug|x86.Build.0 = Debug|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.DVD-5|Default.ActiveCfg = Release|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.DVD-5|Default.Build.0 = Release|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.DVD-5|x86.ActiveCfg = Debug|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.DVD-5|x86.Build.0 = Debug|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.Release|Default.ActiveCfg = Release|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.Release|x86.ActiveCfg = Release|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.Release|x86.Build.0 = Release|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.SingleImage|Default.ActiveCfg = Release|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.SingleImage|Default.Build.0 = Release|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.SingleImage|x86.ActiveCfg = Release|x86
+		{F7CADE36-B4BE-4D92-9B67-056790758061}.SingleImage|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F7AE7C7-39E5-4C61-895A-58AFA439E160}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Default = CD_ROM|Default
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Default = Debug|Default
+		Debug|x86 = Debug|x86
+		DVD-5|Default = DVD-5|Default
+		DVD-5|x86 = DVD-5|x86
+		Release|Default = Release|Default
+		Release|x86 = Release|x86
+		SingleImage|Default = SingleImage|Default
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Default = CD_ROM|Default
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Default = Debug|Default
+		Debug|x86 = Debug|x86
+		DVD-5|Default = DVD-5|Default
+		DVD-5|x86 = DVD-5|x86
+		Release|Default = Release|Default
+		Release|x86 = Release|x86
+		SingleImage|Default = SingleImage|Default
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Default = CD_ROM|Default
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Default = Debug|Default
+		Debug|x86 = Debug|x86
+		DVD-5|Default = DVD-5|Default
+		DVD-5|x86 = DVD-5|x86
+		Release|Default = Release|Default
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Default = CD_ROM|Default
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Default = Debug|Default
+		Debug|x86 = Debug|x86
+		DVD-5|Default = DVD-5|Default
+		DVD-5|x86 = DVD-5|x86
+		Release|Default = Release|Default
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Default = CD_ROM|Default
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Default = Debug|Default
+		Debug|x86 = Debug|x86
+		DVD-5|Default = DVD-5|Default
+		DVD-5|x86 = DVD-5|x86
+		Release|Default = Release|Default
+		Release|x86 = Release|x86
+		SingleImage|Default = SingleImage|Default
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+EndGlobal
